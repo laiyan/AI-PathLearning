@@ -14,6 +14,6 @@ to run, so need to change the stack reserve size to 4MB.
 Also need to include the room.csv file in order to perform
 the code right.
 
-Assined value for the room can be found in room.csv and
+Assigned value for the room can be found in room.csv and
 visually in assignedFloorPlan.png
 ---------------------------------------------------------
